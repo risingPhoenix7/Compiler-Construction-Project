@@ -55,6 +55,6 @@ If you encounter any issues or have questions, please file an issue on the proje
 
 #### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the LICENSE file for details.
 
 ---
